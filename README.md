@@ -17,6 +17,8 @@ Welcome to our Employee Management project, a powerful and user-friendly full-st
 
 7. **MySQL Database:** Employee data is stored securely in a MySQL database, guaranteeing reliability and data consistency.
 
+**The master branch contains the front-end of this project and the master-1 branch contains the backend.**
+
 
 
 
